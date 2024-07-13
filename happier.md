@@ -20,6 +20,9 @@
 * charisma
     1. the powerful personal quality that some people have to attract and impress other people
 
+* cynical
+    1. If you are cynical about something, you do not believe that it can be successful or that the people involved are honest.
+
 * the rigour of sth
     1. If you refer to the rigours of an activity or job, you mean the difficult, demanding, or unpleasant things that are associated with it.
 
@@ -37,6 +40,9 @@
 
 * off-the-cuff
     1. An off-the-cuff remark is made without being prepared or thought about in advance.
+
+* distil
+    1. If a liquid such as whisky or water is distilled, it is heated until it changes into steam or vapour and then cooled until it becomes liquid again. This is usually done in order to make it pure.
 
 * hedonist
     1. A hedonist is someone who believes that having pleasure is the most important thing in life.
