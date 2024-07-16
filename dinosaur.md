@@ -1,4 +1,7 @@
 ### 5 Be Dominant!
+* growl
+    1. When a dog or other animal growls, it makes a low noise in its throat, usually because it is angry.
+
 * a/the pecking order
     1. the order of importance in relation to one another among the members of a group
 
@@ -19,6 +22,9 @@
 
 * scowl
     1. When someone scowls, an angry or hostile expression appears on their face.
+ 
+* vulture
+    1. A vulture is a large bird which lives in hot countries and eats the flesh of dead animals. 秃鹫
 
 * squabble
     1. When people squabble, they quarrel about something that is not really important.
@@ -53,6 +59,12 @@
 * the crunch
     1. the critical moment or situation
 
+* fiscal
+    1. Fiscal is used to describe something that relates to government money or public money, especially taxes.
+ 
+* leash
+    1. A dog's leash is a long thin piece of leather or a chain, which you attach to the dog's collar so that you can keep the dog under control.
+
 * clobber
     1. If you clobber someone, you hit them.
 
@@ -61,6 +73,9 @@
 
 * covet
     1. If you covet something, you strongly want to have it for yourself.
+ 
+* deference (see _defer to_ above)
+    1. Deference is a polite and respectful attitude towards someone, especially because they have an important position.
 
 * animosity
     1. Animosity is a strong feeling of dislike and anger. 
