@@ -1,3 +1,158 @@
+* out and out
+	1. You use out-and-out to emphasize that someone or something has all the characteristics of a particular type of person or thing.
+
+* primeval
+	1. You use primeval to describe things that belong to a very early period in the history of the world.
+	2. You use primeval to describe feelings and emotions that are basic and not the result of thought.
+
+* wiles
+	1. Wiles are clever tricks that people use to persuade other people to do something.
+
+* channel
+
+
+* tap
+
+
+* lane
+
+
+* ulcer
+	1. An ulcer is a sore area on the outside or inside of your body which is very painful and may bleed or produce an unpleasant poisonous substance. 溃疡
+
+* insomnia
+	1. Someone who suffers from insomnia finds it difficult to sleep.
+
+* thrash
+	1. If someone thrashes about, or thrashes their arms or legs about, they move in a wild or violent way, often hitting against something. You can also say that someone's arms or legs thrash about.
+
+* stake out
+	1. If you stake out a position that you are stating or a claim that you are making, you are defending the boundaries or limits of the position or claim.
+
+* cortex
+	1. The cortex of the brain or of another organ is its outer layer.
+
+* limbic system
+	1. the part of the brain bordering on the corpus callosum: concerned with basic emotion, hunger, and sex
+
+* rave
+
+
+* sketch
+	1. A sketch is a drawing that is done quickly without a lot of details. Artists often use sketches as a preparation for a more detailed painting or drawing.
+
+* jam
+	1. If something such as a part of a machine jams, or if something jams it, the part becomes fixed in position and is unable to move freely or work properly.
+
+* one-upsmanship
+	1. If you refer to someone's behaviour as one-upmanship, you disapprove of them trying to make other people feel inferior in order to make themselves appear more important.
+
+* petty
+	1. You can use petty to describe things such as problems, rules, or arguments which you think are unimportant or relate to unimportant things.
+
+* turf
+	1. Someone's turf is the area which is most familiar to them or where they feel most confident.
+
+* broach
+	1. When you broach a subject, especially a sensitive one, you mention it in order to start a discussion on it.
+
+* agitate
+	1. If something agitates you, it worries you and makes you unable to think clearly or calmly.
+
+* prod
+	1. If you prod someone or something, you give them a quick push with your finger or with a pointed object.
+	2. If you prod someone into doing something, you remind or persuade them to do it.
+
+* extension
+	1. An extension is a phone line that is connected to the switchboard of a company or institution, and that has its own number. The written abbreviation ext. is also used.
+
+* compare notes
+	1. to exchange opinions
+
+* single out
+	1. If you single someone out from a group, you choose them and give them special attention or treatment.
+
+* merit
+	1. If you judge something or someone on merit or on their merits, your judgment is based on what you notice when you consider them, rather than on things that you know about them from other sources.
+
+* harp on
+	1. If you say that someone harps on a subject, or harps on about it, you mean that they keep on talking about it in a way that other people find annoying.
+
+* flamboyant
+	1. If you say that someone or something is flamboyant, you mean that they are very noticeable, stylish, and exciting.
+
+* rabble-rouser
+	1. A rabble-rouser is a clever speaker who can persuade a group of people to behave violently or aggressively, often for the speaker's own political advantage.
+
+* resplendent
+	1. If you describe someone or something as resplendent, you mean that their appearance is very impressive and expensive-looking.
+
+* plaid
+	1. Plaid is material with a check design on it. Plaid is also the design itself. 呢子花格
+* at a second's notice
+	1. Notice is used in expressions such as `on short notice,' `at a moment's notice,' or `at twenty-four hours' notice,' to indicate that something can or must be done within a short period of time.
+	
+* gnaw
+	1. If people or animals gnaw something or gnaw at it, they bite it repeatedly.
+
+* appease
+	1. If you try to appease someone, you try to stop them from being angry by giving them what they want. [disapproval] 姑息
+
+* visceral
+	1. Visceral feelings are feelings that you feel very deeply and find it difficult to control or ignore, and that are not the result of thought.
+
+* pinup
+	1. that is or can be pinned up on or otherwise fastened to a wall
+
+* reprimand
+	1. If someone is reprimanded, they are spoken to angrily or seriously for doing something wrong, usually by a person in authority.
+
+* fall back on
+	1. If you fall back on something, you do it or use it after other things have failed.
+
+* vow
+	1. If you vow to do something, you make a serious promise or decision that you will do it.
+
+* bristle
+	1. If you bristle at something, you react to it angrily, and show this in your expression or the way you move.
+
+* jab
+	1. If you jab one thing into another, you push it there with a quick, sudden movement and with a lot of force.
+
+* ethologist
+	1. an expert in the study of the behaviour of animals in their normal environment
+
+* triceratop 三角龙
+
+
+* lumber
+	1. If someone or something lumbers from one place to another, they move there very slowly and clumsily.
+	2. If you are lumbered with someone or something, you have to deal with them or take care of them even though you do not want to and this annoys you.
+
+
+* clump
+	1. If someone clumps somewhere, they walk there with heavy, clumsy steps.
+
+* broccoli
+	1. Broccoli is a vegetable with green stalks and green or purple tops. 青花菜
+
+* sb's strong(est) suit
+	1. a person's greatest talent, most conspicuous character trait, etc.
+
+* spark plug
+	1. A spark plug is a device in the engine of a motor vehicle, which produces electric sparks to make the petrol burn.
+
+* grind
+	1. If you grind a substance such as corn, you crush it between two hard surfaces or with a machine until it becomes a fine powder.
+
+* adrenaline 肾上腺素
+	1. 肾上腺素
+
+* junkies
+	1. A junkie is a drug addict.
+	2. You can use junkie to refer to someone who is very interested in a particular activity, especially when they spend a lot of time on it.
+===============================================================================================================================================
+
 ### 5 Be Dominant!
 * growl
     1. When a dog or other animal growls, it makes a low noise in its throat, usually because it is angry.
