@@ -73,10 +73,10 @@
     1. A desolate place is empty of people and lacking in comfort.
 
 * fervent
-
+    1. A fervent person has or shows strong feelings about something, and is very sincere and enthusiastic about it.
 
 * predicament
-    1. A fervent person has or shows strong feelings about something, and is very sincere and enthusiastic about it.
+    1. If you are in a predicament, you are in an unpleasant situation that is difficult to get out of.
 
 * dire
     1. If you describe something as dire, you are emphasizing that it is of very low quality.
