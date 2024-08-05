@@ -65,3 +65,28 @@
 * conger eel 海鳗
 
 * crab 蟹
+
+### Chapter X The Lobster Quadrille
+* punch
+	1. If you punch someone or something, you hit them hard with your fist.
+
+* salmon
+	1. A salmon is a large silver-coloured fish. 三文鱼
+
+* jellyfish
+	1. A jellyfish is a sea creature that has a clear soft body and can sting you. 水母
+
+* somersault
+	1. If someone or something does a somersault, they turn over completely in the air.
+
+* caper about
+	1. If you caper about, you run and jump around because you are happy or excited.
+
+* crumb
+	1. Crumbs are tiny pieces that fall from bread, biscuits, or cake when you cut it or eat it.
+
+* porpoise
+	1. A porpoise is a sea animal that looks like a dolphin. Porpoises usually swim in groups. 鼠海豚
+
+* sluggard
+	1. A person who is habitually indolent(lazy).
