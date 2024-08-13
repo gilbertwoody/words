@@ -94,7 +94,7 @@
     1. Plaid is material with a check design on it. Plaid is also the design itself. 呢子花格
 * at a second's notice
     1. Notice is used in expressions such as `on short notice,' `at a moment's notice,' or `at twenty-four hours' notice,' to indicate that something can or must be done within a short period of time.
-    
+
 * gnaw
     1. If people or animals gnaw something or gnaw at it, they bite it repeatedly.
 
@@ -178,7 +178,7 @@
 
 * scowl
     1. When someone scowls, an angry or hostile expression appears on their face.
- 
+
 * vulture
     1. A vulture is a large bird which lives in hot countries and eats the flesh of dead animals. 秃鹫
 
@@ -217,7 +217,7 @@
 
 * fiscal
     1. Fiscal is used to describe something that relates to government money or public money, especially taxes.
- 
+
 * leash
     1. A dog's leash is a long thin piece of leather or a chain, which you attach to the dog's collar so that you can keep the dog under control.
 
@@ -229,9 +229,9 @@
 
 * covet
     1. If you covet something, you strongly want to have it for yourself.
- 
+
 * deference (see _defer to_ above)
     1. Deference is a polite and respectful attitude towards someone, especially because they have an important position.
 
 * animosity
-    1. Animosity is a strong feeling of dislike and anger. 
+    1. Animosity is a strong feeling of dislike and anger.

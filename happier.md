@@ -29,7 +29,7 @@
 * academe
     1. The academic world of universities is sometimes referred to as academe.
 
-* grandiose /grændioʊs/ 
+* grandiose /grændioʊs/
     1. If you describe something as grandiose, you mean it is bigger or more elaborate than necessary.
 
 * not care/give a fig
@@ -62,7 +62,7 @@
 
 * retire to
     1. If you retire to another room or place, you go there.
-    
+
 * exalted
     1. Someone or something that is at an exalted level is at a very high level, especially with regard to rank or importance.
 
@@ -112,3 +112,106 @@
 
 * detract
     1. If one thing detracts from another, it makes it seem less good or impressive.
+
+### Chapter 3 Happiness Explained
+* insatiable
+	1. If someone has an insatiable desire for something, they want as much of it as they can possibly get.
+
+* relent
+	1. If you relent, you allow someone to do something that you had previously refused to allow them to do.
+	1. If bad weather relents, it improves.
+
+* onslaught of
+	1. If you refer to an onslaught of something, you mean that there is a large amount of it, often so that it is very difficult to deal with.
+
+* ordain
+	1. If some authority or power ordains something, they decide that it should happen or be in existence.
+	1. When someone is ordained, they are made a member of the clergy in a religious ceremony.
+
+* reciprocal / rɪ'sɪprək(ə)l /
+	1. A reciprocal action or agreement involves two people or groups who do the same thing to each other or agree to help each another in a similar way.
+
+* ploy
+	1. A ploy is a way of behaving that someone plans carefully and secretly in order to gain an advantage for themselves.
+
+* tumor
+	1. A tumor is a mass of diseased or abnormal cells that has grown in a person's or animal's body.
+
+* lobe
+	1. The lobe of your ear is the soft, fleshy part at the bottom.
+	1. If you describe someone as apathetic, you are criticizing them because they do not seem to be interested in or enthusiastic about doing anything.
+
+* apathetic
+	1. If you describe someone as apathetic, you are criticizing them because they do not seem to be interested in or enthusiastic about doing anything.
+
+* ramification
+	1. The ramifications of a decision, plan, or event are all its consequences and effects, especially ones which are not obvious at first.
+
+* propel
+	1. To propel something in a particular direction means to cause it to move in that direction.
+
+* tribulation
+	1. You can refer to the suffering or difficulty that you experience in a particular situation as tribulations.
+
+* psychotic
+	1. Someone who is psychotic has a type of severe mental illness.
+
+* euphoric
+	1. If you are euphoric, you feel intense happiness and excitement.
+
+* delusion
+	1. Delusion is the state of believing things that are not true.
+
+* circumvent
+	1. If someone circumvents a rule or restriction, they avoid having to obey the rule or restriction, in a clever and perhaps dishonest way.
+
+* tantamount
+	1. If you say that one thing is tantamount to a second, more serious thing, you are emphasizing how bad, unacceptable, or unfortunate the first thing is by comparing it to the second.
+
+* endow
+	1. If you endow something with a particular feature or quality, you provide it with that feature or quality.
+
+* tangible
+	1. If something is tangible, it is clear enough or definite enough to be easily seen, felt, or noticed.
+
+* imbue
+	1. If someone or something is imbued with an idea, feeling, or quality, they become filled with it.
+
+* overarching
+	1. You use overarching to indicate that you are talking about something that includes or affects everything or everyone.
+
+* graze
+	1. When animals graze or are grazed, they eat the grass or other plants that are growing in a particular place. You can also say that a field is grazed by animals.
+
+* pasture
+	1. Pasture is land with grass growing on it for farm animals to eat.
+
+* Sanskrit
+	1. Sanskrit is an ancient language which used to be spoken in India and is now used only in religious writings and ceremonies.
+
+* accolade
+	1. If someone is given an accolade, something is done or said about them which shows how much people admire them.
+
+* fervor
+	1. Fervor for something is a very strong feeling for or belief in it.
+
+* draw on
+	1. If you gratify your own or another person's desire, you do what is necessary to please yourself or them.
+
+* gratify
+	1. If you gratify your own or another person's desire, you do what is necessary to please yourself or them.
+
+* dispense
+	1. When a chemist dispenses medicine, he or she prepares it, and gives or sells it to the patient or customer.
+
+* synergistic
+	1. acting together
+
+* motif
+    1. A motif is a theme or idea that is frequently repeated throughout a piece of literature or music.
+
+* lasagna
+	1. 千层饼
+
+* exigency
+    1. The exigencies of a situation or a job are the demands or difficulties that you have to deal with as part of it.
