@@ -215,3 +215,40 @@
 
 * exigency
   1. The exigencies of a situation or a job are the demands or difficulties that you have to deal with as part of it.
+
+Chapter 4 The Ultimate Currency
+* rampant
+  1. If you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way.
+
+* destitution
+  1. Destitution is the state of having no money or possessions.
+
+* on the verge of
+  1. If you are on the verge of something, you are going to do it very soon or it is likely to happen or begin very soon.
+
+* autistic
+  1. If someone is autistic, they have a developmental disorder that can cause them to have difficulty in communicating with and responding to other people.
+
+* deficit
+  1. A deficit is the amount by which something is less than what is required or expected, especially the amount by which the total money received is less than the total money spent.
+
+* ramification
+  1. The ramifications of a decision, plan, or event are all its consequences and effects, especially ones which are not obvious at first.
+
+* caviar
+  1. Caviar is the salted eggs of a fish called a sturgeon. (尤指鲟鱼的鱼子制作的)鱼子酱
+
+* longitudinal
+  1. of or in length
+
+* illusory
+  1. If you describe something as illusory, you mean that although it seems true or possible, it is in fact false or impossible.
+
+* hoard
+  1. If you hoard things such as food or money, you save or store them, often in secret, because they are valuable or important to you.
+
+* pay heed
+  1. If you take heed of what someone says or if you pay heed to them, you pay attention to them and consider carefully what they say.
+
+* rever
+  1. If you revere someone or something, you respect and admire them greatly.
