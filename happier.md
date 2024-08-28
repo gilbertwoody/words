@@ -252,3 +252,30 @@ Chapter 4 The Ultimate Currency
 
 * rever
   1. If you revere someone or something, you respect and admire them greatly.
+
+* solvent
+  1. If a person or a company is solvent, they have enough money to pay all their debts.
+
+* stride
+  1. A stride is a long step which you take when you are walking or running.
+
+* ethnic
+  1. Ethnic means connected with or relating to different racial or cultural groups of people.
+
+* listless
+  1. Someone who is listless has no energy or enthusiasm.
+
+* dejection
+  1. Dejection is a feeling of sadness that you get, for example, when you have just been disappointed by something.
+
+* melancholy
+  1. Melancholy is an intense feeling of sadness which lasts for a long time and which strongly affects your behaviour and attitudes.
+
+* lament
+  1. If you lament something, you express your sadness, regret, or disappointment about it.
+
+* fanantical
+  1. If you describe someone as fanatical, you disapprove of them because you consider their behaviour or opinions to be very extreme.
+
+* charismatic
+  1. A charismatic person attracts, influences, and inspires people by their personal qualities.
