@@ -279,3 +279,32 @@ Chapter 4 The Ultimate Currency
 
 * charismatic
   1. A charismatic person attracts, influences, and inspires people by their personal qualities.
+
+### Chapter 5 Setting Goals
+* hestitancy
+  1. hesitation or indecision; doubt
+
+* providence
+  1. Providence is God, or a force which is believed by some people to arrange the things that happen to us.
+
+* paraplegic
+  1. A paraplegic is someone who cannot move the lower half of their body, for example because of an injury to their spine.
+
+* ambivalence
+  1. the simultaneous existence of two opposed and conflicting attitudes, emotions, etc
+
+* accolade
+  1. If someone is given an accolade, something is done or said about them which shows how much people admire them.
+
+* meandering
+  1. If you meander somewhere, you move slowly and not in a straight line.
+
+* siren
+  1. A siren is a warning device which makes a long, loud noise. Most fire engines, ambulances, and police cars have sirens.
+  2. Some people refer to a woman as a siren when they think that she is attractive to men but dangerous in some way.
+
+* articulate
+  1. When you articulate your ideas or feelings, you express them clearly in words.
+
+* at the mercy of
+  1. If one person or thing is at the mercy of another, the first person or thing is in a situation where they cannot prevent themselves being harmed or affected by the second.
