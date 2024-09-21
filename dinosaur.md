@@ -126,7 +126,8 @@
   1. an expert in the study of the behaviour of animals in their normal environment
 
 ### Chapter 3 Get It Now!
-* triceratop 三角龙
+* triceratop
+  1. 三角龙
 
 * lumber
   1. If someone or something lumbers from one place to another, they move there very slowly and clumsily.
@@ -147,7 +148,7 @@
 * grind
   1. If you refer to routine tasks or activities as the grind, you mean they are boring and take up a lot of time and effort.
 
-* adrenaline 肾上腺素
+* adrenaline
   1. 肾上腺素
 
 * junkies
@@ -260,3 +261,59 @@
 
 * animosity
   1. Animosity is a strong feeling of dislike and anger.
+
+### Chapter 6 Defend the Territory
+* placid
+  1. A placid person or animal is calm and does not easily become excited, angry, or upset.
+
+* cantaloupe
+  1. A cantaloupe is a type of melon.
+
+* snort
+  1. When people or animals snort, they breathe air noisily out through their noses. People sometimes snort in order to express disapproval or amusement.
+
+* usher
+  1. If you usher someone somewhere, you show them where they should go, often by going with them.
+
+* recliner
+  1. A recliner is a type of armchair with a back that can be adjusted to slope at different angles.
+
+* put one's finger on sth
+  1. If you put your finger on something, for example a reason or problem, you see and identify exactly what it is.
+
+* Young Turk
+  1. a progressive, revolutionary, or rebellious member of an organization, political party, etc, esp one agitating for radical reform
+  2. a member of an abortive reform movement in the Ottoman Empire, originally made up of exiles in W Europe who advocated liberal reforms. The movement fell under the domination of young Turkish army officers of a nationalist bent, who wielded great influence in the government between 1908 and 1918
+
+* stultify
+  1. If something stultifies you, it makes you feel empty or dull in your mind, because it is so boring.
+
+* esprit de corps (espriː də kɔːʳ)
+  1. Esprit de corps is a feeling of loyalty and pride that is shared by the members of a group who consider themselves to be different from other people in some special way.
+
+* fuss
+  1. If you fuss, you worry or behave in a nervous, anxious way about unimportant matters or rush around doing unnecessary things.
+
+* huffy
+  1. Someone who is huffy is obviously annoyed or offended about something.
+
+* petty
+  1. If you describe someone's behaviour as petty, you mean that they care too much about small, unimportant things and perhaps that they are unnecessarily unkind.
+  2. You can use petty to describe things such as problems, rules, or arguments which you think are unimportant or relate to unimportant things.
+
+* imperialist
+  1. 帝国主义者
+
+* innate
+  1. An innate quality or ability is one which a person is born with.
+
+* turf
+  1. Turf is short, thick, even grass.
+  2. A turf is a small rectangular piece of grass which you lay on the ground in order to make a lawn.
+  3. Someone's turf is the area which is most familiar to them or where they feel most confident.
+
+* expenditure
+  1. Expenditure is the spending of money on something, or the money that is spent on something.
+
+* barony
+  1. A barony is the rank or position of a baron. 男爵爵位
