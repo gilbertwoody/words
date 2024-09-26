@@ -1,151 +1,352 @@
-### Chapter V Advice from a Caterpilla
-* languid
-  1. If you describe someone as languid, you mean that they show little energy or interest and are very slow and casual in their movements.
+\documentclass{ctex}
+\usepackage{longtable}
 
-* chrysalis
-  1. A chrysalis is a butterfly or moth in the stage between being a larva and an adult. 蛹
-  2. A chrysalis is the hard, protective covering that a chrysalis has. 茧
+\begin{document}
+\begin{center}
+\begin{longtable}{|l|p{7.8cm}|}
 
-* puff
-  1. If someone puffs at a cigarette, cigar, or pipe, they smoke it.
+\hline
+\multicolumn{2}{|l|}{\textbf{Chapter V Advice from a Caterpilla}}\\
 
-* incessant
-  1. An incessant process or activity is one that continues without stopping.
+\hline
+languid
+&
+If you describe someone as languid, you mean that they show little energy or interest and are very slow and casual in their movements.
+\\
 
-* somersault
-  1. If someone or something does a somersault, they turn over completely in the air.
+\hline
+chrysalis
+&
+A chrysalis is a butterfly or moth in the stage between being a larva and an adult. 蛹
+\\
 
-* sage
-  1. A sage is a person who is regarded as being very wise.
+\hline
+chrysalis
+&
+A chrysalis is the hard, protective covering that a chrysalis has. 茧
+\\
 
-* supple
-  1. A supple person can move and bend their body very easily.
-  2. A supple object or material bends or changes shape easily without cracking or breaking.
-  3. If you describe something such as a flavour or a sound as supple, you like it because it is smooth and rich.
 
-* ointment
-  1. An ointment is a smooth thick substance that is put on sore skin or a wound to help it heal.
-  2. If you describe someone or something as a fly in the ointment, you think they spoil a situation and prevent it being as successful as you had hoped.
+\hline
+puff
+&
+If someone puffs at a cigarette, cigar, or pipe, they smoke it.
+\\
 
-* suet
-  1. Suet is hard animal fat that is used in cooking.
+\hline
+incessant
+&
+An incessant process or activity is one that continues without stopping.
+\\
 
-* eel
-  1. An eel is a long, thin fish that looks like a snake. 鳗鱼
+\hline
+somersault
+&
+If someone or something does a somersault, they turn over completely in the air.
+\\
 
-* rear
-  1. When a horse rears, it moves the front part of its body upwards, so that its front legs are high in the air and it is standing on its back legs.
+\hline
+sage
+&
+A sage is a person who is regarded as being very wise.
+\\
 
-* morsel
-  1. A morsel is a very small amount of something, especially a very small piece of food.
+\hline
+supple
+&
+A supple person can move and bend their body very easily.
+\\
 
-* stalk
-  1. The stalk of a flower, leaf, or fruit is the thin part that joins it to the plant or tree.
+\hline
+supple
+&
+A supple object or material bends or changes shape easily without cracking or breaking.
+\\
 
-* wriggle
-  1. If you wriggle or wriggle part of your body, you twist and turn with quick movements, for example because you are uncomfortable.
+\hline
+supple
+&
+If you describe something such as a flavour or a sound as supple, you like it because it is smooth and rich.
+\\
 
-* sulky
-  1. Someone who is sulky is sulking or is unwilling to enjoy themselves. 生闷气的
 
-* crouch
-  1. If you are crouching, your legs are bent under you so that you are close to the ground and leaning forward slightly.
+\hline
+ointment
+&
+An ointment is a smooth thick substance that is put on sore skin or a wound to help it heal.
+\\
 
-* frighten the life/wits out of sb
-  1. If something frightens the life out of you, frightens the wits out of you, or frightens you out of your wits, it causes you to feel suddenly afraid or gives you a very unpleasant shock.
+\hline
+ointment
+&
+If you describe someone or something as a fly in the ointment, you think they spoil a situation and prevent it being as successful as you had hoped.
+\\
 
-### Chapter VII A Mad Tea-Party
-* indignant
-  1. If you are indignant, you are shocked and angry, because you think that something is unjust or unfair. The word shares the same root _digus_ with _ignition_.
 
-* raven 渡鸭
-  1. A **raven** is a large bird with shiny black feathers and a deep harsh call.
+\hline
+suet
+&
+Suet is hard animal fat that is used in cooking.
+\\
 
-* riddle
-  1. A riddle is a puzzle or joke in which you ask a question that seems to be nonsense but which has a clever or amusing answer.
 
-* meek
-  1. If you describe a person as **meek**, you think that they are gentle and quiet, and likely to do what other people say.
+\hline
+eel
+&
+An eel is a long, thin fish that looks like a snake. 鳗鱼
+\\
 
-* gloomy
-  1. If people are **gloomy**, they are unhappy and have no hope.
+\hline
+rear
+&
+When a horse rears, it moves the front part of its body upwards, so that its front legs are high in the air and it is standing on its back legs.
+\\
 
-* contemptuous
-  1. If you are **contemptuous** of someone or something, you do not like or respect them at all.
+\hline
+morsel
+&
+A morsel is a very small amount of something, especially a very small piece of food.
+\\
 
-* twinkling
-  1. a very short time; instant; moment
+\hline
+stalk
+&
+The stalk of a flower, leaf, or fruit is the thin part that joins it to the plant or tree.
+\\
 
-* pinch
-  1. If you **pinch** a part of someone's body, you take a piece of their skin between your thumb and first finger and give it a short squeeze.
+\hline
+wriggle
+&
+If you wriggle or wriggle part of your body, you twist and turn with quick movements, for example because you are uncomfortable.
+\\
 
-* feeble
-  1. If you describe someone or something as **feeble**, you mean that they are weak.
+\hline
+sulky
+&
+Someone who is sulky is sulking or is unwilling to enjoy themselves. 生闷气的
+\\
 
-* treacle
-  1. **Treacle** is a thick, sweet, sticky liquid that is obtained when sugar is processed. It is used in making cakes and puddings.
+\hline
+crouch
+&
+If you are crouching, your legs are bent under you so that you are close to the ground and leaning forward slightly.
+\\
 
-* jug
-  1. A **jug** is a cylindrical container with a handle and is used for holding and pouring liquids.
+\hline
+frighten the life/wits out of sb
+&
+If something frightens the life out of you, frightens the wits out of you, or frightens you out of your wits, it causes you to feel suddenly afraid or gives you a very unpleasant shock.
+\\
 
-* shriek
-  1. a shrill and piercing cry 尖锐刺耳的叫声
+\hline
+\multicolumn{2}{|l|}{\textbf{ Chapter VII A Mad Tea-Party}}\\
 
-* fountain
-  1. A **fountain** is an ornamental feature in a pool or lake which consists of a long narrow stream of water that is forced up into the air by a pump.
+\hline
+indignant
+&
+If you are indignant, you are shocked and angry, because you think that something is unjust or unfair. The word shares the same root _digus_ with _ignition_.
+\\
 
-### CHAPTER IX. The Mock Turtle’s Story
-* vinegar 醋
+\hline
+raven 渡鸭
+&
+A **raven** is a large bird with shiny black feathers and a deep harsh call.
+\\
 
-* chamomile 甘菊
+\hline
+riddle
+&
+A riddle is a puzzle or joke in which you ask a question that seems to be nonsense but which has a clever or amusing answer.
+\\
 
-* barley-sugar 麦芽糖
+\hline
+meek
+&
+If you describe a person as **meek**, you think that they are gentle and quiet, and likely to do what other people say.
+\\
 
-* stingy
-  1. unwilling to spend or give
+\hline
+gloomy
+&
+If people are **gloomy**, they are unhappy and have no hope.
+\\
 
-* mustard 芥末酱
+\hline
+contemptuous
+&
+If you are **contemptuous** of someone or something, you do not like or respect them at all.
+\\
 
-* stamp
-  1. If you stamp or stamp your foot, you lift your foot and put it down very hard on the ground, for example because you are angry or because your feet are cold.
+\hline
+twinkling
+&
+a very short time; instant; moment
+\\
 
-* gryphon 狮身鹰首兽
+\hline
+pinch
+&
+If you **pinch** a part of someone's body, you take a piece of their skin between your thumb and first finger and give it a short squeeze.
+\\
 
-* ledge
-  1. A ledge is a piece of rock on the side of a cliff or mountain, which is in the shape of a narrow shelf.
+\hline
+feeble
+&
+If you describe someone or something as **feeble**, you mean that they are weak.
+\\
 
-* flapper
-  1. a person or thing that flaps 鳍
+\hline
+treacle
+&
+**Treacle** is a thick, sweet, sticky liquid that is obtained when sugar is processed. It is used in making cakes and puddings.
+\\
 
-* conger eel 海鳗
+\hline
+jug
+&
+A **jug** is a cylindrical container with a handle and is used for holding and pouring liquids.
+\\
 
-* crab 蟹
+\hline
+shriek
+&
+a shrill and piercing cry 尖锐刺耳的叫声
+\\
 
-### Chapter X The Lobster Quadrille
-* punch
-  1. If you punch someone or something, you hit them hard with your fist.
+\hline
+fountain
+&
+A **fountain** is an ornamental feature in a pool or lake which consists of a long narrow stream of water that is forced up into the air by a pump.
+\\
 
-* salmon
-  1. A salmon is a large silver-coloured fish. 三文鱼
+\hline
+\multicolumn{2}{|l|}{\textbf{ CHAPTER IX. The Mock Turtle’s Story}}\\
 
-* jellyfish
-  1. A jellyfish is a sea creature that has a clear soft body and can sting you. 水母
+\hline
+vinegar
+&
+醋
+\\
 
-* somersault
-  1. If someone or something does a somersault, they turn over completely in the air.
+\hline
+chamomile
+&
+甘菊
+\\
 
-* caper about
-  1. If you caper about, you run and jump around because you are happy or excited.
+\hline
+barley-sugar
+&
+麦芽糖
+\\
 
-* crumb
-  1. Crumbs are tiny pieces that fall from bread, biscuits, or cake when you cut it or eat it.
+\hline
+stingy
+&
+unwilling to spend or give
+\\
 
-* porpoise
-  1. A porpoise is a sea animal that looks like a dolphin. Porpoises usually swim in groups. 鼠海豚
+\hline
+mustard
+&
+芥末酱
+\\
 
-* sluggard
-  1. A person who is habitually indolent(lazy).
+\hline
+stamp
+&
+If you stamp or stamp your foot, you lift your foot and put it down very hard on the ground, for example because you are angry or because your feet are cold.
+\\
 
-* pant
-  1. If you pant, you breathe quickly and loudly with your mouth open, because you have been doing something energetic.
+\hline
+gryphon
+&
+狮身鹰首兽
+\\
 
+\hline
+ledge
+&
+A ledge is a piece of rock on the side of a cliff or mountain, which is in the shape of a narrow shelf.
+\\
+
+\hline
+flapper
+&
+a person or thing that flaps 鳍
+\\
+
+\hline
+conger eel
+&
+海鳗
+\\
+
+\hline
+crab
+&
+蟹
+\\
+
+\hline
+\multicolumn{2}{|l|}{\textbf{Chapter X The Lobster Quadrille}}\\
+
+\hline
+punch
+&
+If you punch someone or something, you hit them hard with your fist.
+\\
+
+\hline
+salmon
+&
+A salmon is a large silver-coloured fish. 三文鱼
+\\
+
+\hline
+jellyfish
+&
+A jellyfish is a sea creature that has a clear soft body and can sting you. 水母
+\\
+
+\hline
+somersault
+&
+If someone or something does a somersault, they turn over completely in the air.
+\\
+
+\hline
+caper about
+&
+If you caper about, you run and jump around because you are happy or excited.
+\\
+
+\hline
+crumb
+&
+Crumbs are tiny pieces that fall from bread, biscuits, or cake when you cut it or eat it.
+\\
+
+\hline
+porpoise
+&
+A porpoise is a sea animal that looks like a dolphin. Porpoises usually swim in groups. 鼠海豚
+\\
+
+\hline
+sluggard
+&
+A person who is habitually indolent(lazy).
+\\
+
+\hline
+pant
+&
+If you pant, you breathe quickly and loudly with your mouth open, because you have been doing something energetic.
+\\
+
+\hline
+
+\end{longtable}
+\end{center}
+\end{document}
